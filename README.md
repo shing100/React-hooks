@@ -1,16 +1,16 @@
 # Nooks
 
-- [ ] useTitle
-- [ ] useInput
+- [x] useTitle
+- [x] useTabs
+- [x] useInput
+- [x] useClick
+- [x] useHover
+- [x] usePreventLeave
+- [x] useConfirm
 - [ ] usePageLeave
-- [ ] useClick
 - [ ] useFadeIn
 - [ ] useFullscreen
-- [ ] useHover
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
-- [ ] usePreventLeave
-- [ ] useConfirm
 - [ ] useAxios
