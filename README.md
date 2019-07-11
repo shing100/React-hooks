@@ -9,7 +9,7 @@
 - [x] useConfirm
 - [x] useBeforeLeave
 - [x] useFadeIn
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useFullscreen
 - [ ] useNotification
 - [ ] useScroll
