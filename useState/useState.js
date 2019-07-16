@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.css";
-
 function App() {
   const [item, setItem] = useState(1);
   const incrementItem = () => setItem(item + 1);

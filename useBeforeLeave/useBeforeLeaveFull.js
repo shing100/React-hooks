@@ -1,8 +1,6 @@
 import React, { useEffect } from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.css";
-
 const useBeforeLeave = onBefore => {
     if (typeof onBefore !== "function") {
         return;
