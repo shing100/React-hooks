@@ -1,7 +1,7 @@
 {
-  "name": "@hookeasy/use-notification",
-  "version": "1.0.1",
-  "description": "React Hooks to update your notification",
+  "name": "@hookeasy/use-fadein",
+  "version": "1.0.2",
+  "description": "React Hook to update your fadein event",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,9 +13,8 @@
   "keywords": [
     "hooks",
     "react",
-    "notification",
-    "update",
-    "notifi"
+    "fadein",
+    "event"
   ],
   "author": "kingname <shing100@naver.com>",
   "license": "MIT",

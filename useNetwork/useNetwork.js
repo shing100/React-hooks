@@ -1,3 +1,6 @@
+import React, { useEffect, useState } from "react";
+import ReactDOM from "react-dom";
+
 export const useNetwork = onChange => {
     const [status, setStatus] = useState(navigator.onLine);
     const handleChange = () => {

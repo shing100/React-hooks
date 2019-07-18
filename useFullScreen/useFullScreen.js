@@ -1,3 +1,6 @@
+import React, { useRef } from "react";
+import ReactDOM from "react-dom";
+
 export const useFullscreen = callback => {
   const element = useRef();
   const runCb = isFull => {

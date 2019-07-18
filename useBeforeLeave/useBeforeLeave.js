@@ -1,3 +1,6 @@
+import React, { useEffect } from "react";
+import ReactDOM from "react-dom";
+
 export const useBeforeLeave = onBefore => {
     if (typeof onBefore !== "function") {
         return;

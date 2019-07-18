@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 export const useConfirm = (message = "", onConfirm, onCancel) => {
     if (!onConfirm || typeof onConfirm !== "function") {
         return;
