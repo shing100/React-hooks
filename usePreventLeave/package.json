@@ -1,0 +1,33 @@
+{
+  "name": "@hookeasy/use-preventleave",
+  "version": "1.0.0",
+  "description": "React Hooks to update your preventleave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shing100/React-hooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "prevent",
+    "leave"
+  ],
+  "author": "kingname <shing100@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shing100/React-hooks/issues"
+  },
+  "homepage": "https://github.com/shing100/React-hooks#readme",
+  "peerdependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

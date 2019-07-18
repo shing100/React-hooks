@@ -1,0 +1,26 @@
+{
+  "name": "@hookeasy/use-tabs",
+  "version": "1.0.2",
+  "description": "React Hook to help your tabs controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shing100/React-hooks.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "kingname <shing100@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shing100/React-hooks/issues"
+  },
+  "homepage": "https://github.com/shing100/React-hooks#readme",
+  "peerdependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

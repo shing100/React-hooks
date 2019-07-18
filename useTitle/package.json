@@ -1,0 +1,28 @@
+{
+  "name": "@hookeasy/use-title",
+  "version": "1.0.2",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shing100/React-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "limgeun <shing100@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shing100/React-hooks/issues"
+  },
+  "homepage": "https://github.com/shing100/React-hooks#readme",
+  "peerdependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

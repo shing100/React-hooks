@@ -1,16 +1,20 @@
-# Nooks
+# React hooks easy use
 
-- [x] useTitle
-- [x] useTabs
-- [x] useInput
-- [x] useClick
-- [x] useHover
-- [x] usePreventLeave
-- [x] useConfirm
-- [x] useBeforeLeave
-- [x] useFadeIn
-- [x] useNetwork
-- [x] useFullscreen
-- [x] useScroll
-- [ ] useNotification
-- [ ] useAxios
+```
+npm i @hookeasy/useItem
+```
+### useItem
+- useTitle
+- useTabs
+- useInput
+- useClick
+- useHover
+- usePreventLeave
+- useConfirm
+- useBeforeLeave
+- useFadeIn
+- useNetwork
+- useFullscreen
+- useScroll
+- useNotification
+- useAxios
