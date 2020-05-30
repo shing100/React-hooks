@@ -1,4 +1,4 @@
-# React hooks easy use
+#  use React hooks 
 
 ```
 npm i @hookeasy/useItem
